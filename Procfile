@@ -1,1 +1,1 @@
-web: gunicorn evasite.wsgi:application
+web: gunicorn coop.wsgi:application
