@@ -1,0 +1,157 @@
+[
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$100000$AqXOdgO27IyN$mKwXlHbmyT7C9oDAvwpjsOUWs6fR1TqQx8fwXE7KMSU=",
+        "last_login": "2018-02-02T15:33:22.403Z",
+        "is_superuser": true,
+        "username": "workerscoop",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2018-02-02T15:33:04.245Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "np3ib0gi990nmmbhczjmle5jdg4a9x3e",
+    "fields": {
+        "session_data": "NTI2YTlkNjYxMTE3M2MwMGRkMTI4YjJmZGU3ZTU0NmNiYTdlYzU3MTp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIyODNkYjAyYmE0NDgyMTA3NDNlY2UyOWFjZDQ3YzMyOTE2ZWIwYTgyIn0=",
+        "expire_date": "2018-02-16T15:33:22.409Z"
+    }
+},
+{
+    "model": "home.hometext",
+    "pk": 1,
+    "fields": {
+        "description": "<p>This is The HomepPage Text</p>"
+    }
+},
+{
+    "model": "home.abouttext",
+    "pk": 1,
+    "fields": {
+        "description": "<p>This is the About Page text.</p>"
+    }
+},
+{
+    "model": "home.membersagreement",
+    "pk": 1,
+    "fields": {
+        "description": "<h1 style=\"text-align: center;\">Co-operative LLC Members Agreement</h1>\r\n<p>&nbsp;</p>\r\n<p style=\"text-align: center;\">This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement This is the words for the members agreement&nbsp;</p>\r\n<ul>\r\n<li style=\"text-align: left;\">This is the words for the members agreement&nbsp;</li>\r\n<li style=\"text-align: left;\">This is the words for the members agreement&nbsp;</li>\r\n<li style=\"text-align: left;\">This is the words for the members agreement&nbsp;</li>\r\n<li style=\"text-align: left;\">This is the words for the members agreement&nbsp;</li>\r\n<li style=\"text-align: left;\">This is the words for the members agreement&nbsp;</li>\r\n</ul>\r\n<ol>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n<li>This is the words for the members agreement&nbsp;</li>\r\n</ol>\r\n<p><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span></p>\r\n<p><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span></p>\r\n<p><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span></p>\r\n<h2>This is the words for the members agreement&nbsp;</h2>\r\n<p><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span></p>\r\n<h4>This is the words for the members agreement&nbsp;</h4>\r\n<p><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span><span style=\"text-align: center;\">This is the words for the members agreement&nbsp;</span></p>"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2018-02-02T15:33:45.442Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "abouttext"
+        ],
+        "object_id": "1",
+        "object_repr": "About Page Text",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2018-02-02T15:34:07.070Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "hometext"
+        ],
+        "object_id": "1",
+        "object_repr": "Home Page Text",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2018-02-02T15:34:17.575Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "membersagreement"
+        ],
+        "object_id": "1",
+        "object_repr": "Members Agreement",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2018-02-04T17:49:35.221Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "membersagreement"
+        ],
+        "object_id": "1",
+        "object_repr": "Members Agreement",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2018-02-04T18:01:42.579Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "membersagreement"
+        ],
+        "object_id": "1",
+        "object_repr": "Members Agreement",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2018-02-04T18:05:42.757Z",
+        "user": [
+            "workerscoop"
+        ],
+        "content_type": [
+            "home",
+            "membersagreement"
+        ],
+        "object_id": "1",
+        "object_repr": "Members Agreement",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"description\"]}}]"
+    }
+}
+]
