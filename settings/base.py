@@ -118,5 +118,5 @@ TINYMCE_JS_ROOT = os.path.join(BASE_DIR, "static", "js",
 
 TINYMCE_DEFAULT_CONFIG = {
     'width': '100%',
-    'height': 300,
+    'height': 800,
 }
